@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect Server</string>
+    <string name="client_currency">Currency</string>
+    <string name="get_exchange_rate">Exchange Rate</string>
+    <string name="exchange_rate2">Result: Exchange Rate: </string>
+</resources>
